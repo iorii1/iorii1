@@ -17,7 +17,6 @@ BST/AVL tree implementation and a CSV-driven genealogy query system. JUnit-teste
 Arch Linux configuration — MangoWM, Quickshell, custom UI components.
 
 ## Stack
-## Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-orange?style=flat&logo=java&logoColor=white)
