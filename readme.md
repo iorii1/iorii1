@@ -27,7 +27,3 @@ Arch Linux configuration — MangoWM, Quickshell, custom UI components.
 ![QML](https://img.shields.io/badge/QML-41CD52?style=flat&logo=qt&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## Contact
-
-<!-- add LinkedIn / email -->
